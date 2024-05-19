@@ -1,6 +1,6 @@
-**E-commerce Frontend Application**
+**Homble Frontend Assessment**
 
-This React application implements a user interface for an e-commerce platform, featuring functionalities like product listings, product details, search, sorting, filtering (checkboxes), and basic CRUD operations (Add Product functionality is implemented as a form).
+**Task**
 
 **Key Features:**
 
