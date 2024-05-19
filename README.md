@@ -32,13 +32,13 @@ This React application implements a user interface for an e-commerce platform, f
 ├── App.js                 # Main application entry point
 ├── AppRouter.jsx          # Routing configuration for different screens
 ├── components             # Reusable UI components
-│   ├── AddProductButton.jsx  # Form for adding products
-│   ├── Dashboard.jsx        # Dashboard with search, table, and filtering (checkboxes)
-│   └── ProductDetailPage.jsx  # Product details page with collapsible sections
+│   ├── AddProductButton.js  # Form for adding products
+│   ├── Dashboard.js        # Dashboard with search, table, and filtering (checkboxes)
 ├── customHooks             # Custom hooks for data fetching and management
-│   └── useFetch.jsx         # Custom hook for fetching and sending data requests
+│   └── useFetch.js        # Custom hook for fetching and sending data requests
 ├── screens                 # Screens with specific functionalities
-│   ├── ProductListingPage.jsx  # Product listing page with sorting and responsive layout
+│   ├── ProductListingPage.js  # Product listing page with sorting and responsive layout
+│   └── ProductDetailPage.js  # Product details page with collapsible sections
 └── ...                    # Other project files (e.g., styles, assets)
 ```
 
