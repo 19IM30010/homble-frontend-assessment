@@ -1,5 +1,5 @@
 
-****###Assessment Tasks###***
+**###Assessment Tasks**
 
 **Key Features:**
 
@@ -36,15 +36,28 @@ Data fetching and error handling are handled by the useFetch hook.
 
 .
 ├── App.js                 # Main application entry point
+
 ├── AppRouter.jsx          # Routing configuration for different screens
+
 ├── components             # Reusable UI components
+
 │   ├── AddProductButton.js  # Form for adding products
+
 │   ├── Dashboard
+
          |-Dashboard.js        # Dashboard with search, table, and filtering (checkboxes)
+
 │   
+
 ├── customHooks             # Custom hooks for data fetching and management
+
 │   └── useFetch.js         # Custom hook for fetching and sending data requests
+
 ├── screens                 # Screens with specific functionalities
+
 │   ├── ProductListingPage.js  # Product listing page with sorting and responsive layout
+
 |   └── ProductDetailPage.js  # Product details page with collapsible sections
+
 └── ...                    # Other project files (e.g., styles, assets)
+
