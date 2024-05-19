@@ -10,3 +10,10 @@ body,
 .App {
   height: 100%;
 }
+.navbar {
+  z-index: 1050; /* Higher z-index than other components */
+}
+
+.content {
+  padding-top: 75px; /* Height of the navbar */
+}

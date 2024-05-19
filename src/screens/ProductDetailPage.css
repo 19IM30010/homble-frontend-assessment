@@ -1,0 +1,8 @@
+.container {
+    margin-top: 100px; /* To offset the fixed navbar */
+  }
+  
+  .card-header {
+    cursor: pointer;
+  }
+  
